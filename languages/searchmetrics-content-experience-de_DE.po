@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: content-experience-settings.php conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-05 11:37+0000\n"
+"PO-Revision-Date: 2020-10-27 21:41+0200\n"
+"Last-Translator: Kevin Kyburz <dev@techgarage.email>\n"
+"Language-Team: Techgarage\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_US\n"
+"X-Loco-Parser: loco_parse_php\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: searchmetrics-content-experience.php:45
+msgid "Welcome to Searchmetrics Content Experience – You're almost ready to start."
+msgstr "Willkommen beim Searchmetrics Content Experience Plugin.  Du kannst gleich loslegen."
+
+#: searchmetrics-content-experience.php:48
+msgid "Run the Tutorial"
+msgstr "Starte den Einrichtungsassistenten"
+
+#: searchmetrics-content-experience.php:49
+msgid "Skip Tutorial"
+msgstr "Einrichtungsassistenten überspringen"
+
+#: includes/content-experience-settings.php:93
+msgid "Searchmetrics Content Experience Plugin by Techgarage Media"
+msgstr "Searchmetrics Content Experience Plugin by Techgarage Media"
+
+#: includes/content-experience-settings.php:97
+msgid "Options"
+msgstr "Optionen"
+
+#: includes/content-experience-settings.php:99
+#: includes/content-experience-settings.php:128
+msgid "License"
+msgstr "Lizenz"
+
+#: includes/content-experience-settings.php:103
+#: includes/content-experience-settings.php:181
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: includes/content-experience-settings.php:104
+#: includes/content-experience-settings.php:188
+msgid "Support"
+msgstr "Support"
+
+#: includes/content-experience-settings.php:110
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/content-experience-settings.php:117
+msgid "Disable synchronisation back to Searchmetrics"
+msgstr "Deaktiviere die Synchronisierung zurück zu Searchmetrics"
+
+#: includes/content-experience-settings.php:123
+#: includes/content-experience-settings.php:154
+#: includes/content-experience-settings.php:177
+msgid "Submit"
+msgstr "Speichern"
+
+#: includes/content-experience-settings.php:135
+#: includes/content-experience-tutorial.php:83
+msgid "License Key"
+msgstr "Lizenzschlüssel"
+
+#: includes/content-experience-settings.php:142
+msgid "Expiration date"
+msgstr "Haltbarkeitsdatum"
+
+#: includes/content-experience-settings.php:148
+msgid "Status"
+msgstr "Status"
+
+#: includes/content-experience-settings.php:149
+msgid "invalid"
+msgstr "invalid"
+
+#: includes/content-experience-settings.php:158
+msgid "Searchmetrics API"
+msgstr "Searchmetrics API"
+
+#: includes/content-experience-settings.php:165
+#: content-experience-tutorial.php:120
+msgid "Searchmetrics API Key"
+msgstr "Searchmetrics API Schlüssel"
+
+#: includes/content-experience-settings.php:171
+#: content-experience-tutorial.php:126
+msgid "Searchmetrics API Secret"
+msgstr "Searchmetrics API Secret"
+
+#: includes/content-experience-settings.php:183
+msgid "Our documentation is the first place to go for questions about our plugin, which we might have already answered."
+msgstr "Unsere Dokumentation ist deine erste Anlaufstelle, falls du Fragen zum Plugin hast."
+
+#: includes/content-experience-settings.php:106
+msgid "Contact our excellent support."
+msgstr "Kontaktieren Sie unseren exzellenten Support."
+
+#: includes/content-experience-settings.php:110
+msgid "Please contact us"
+msgstr "Bitte kontaktieren Sie uns"
+
+#: includes/content-experience-settings.php:259
+#: content-experience-tutorial.php:112
+msgid "Searchmetrics API key or secret are not correct."
+msgstr "Searchmetrics API Schlüssel oder Geheimnis sind nicht gültig."
+
+#: includes/content-experience-settings.php:267
+#: content-experience-tutorial.php:110
+msgid "Your Searchmetrics API Key and Secret have been accepted."
+msgstr "Dein Searchmetrics API-Schlüssel und  API-Secret wurden akzeptiert."
+
+#: includes/content-experience-settings.php:278
+msgid "Your settings have been updated."
+msgstr "Deine Einstellungen wurden aktualisiert."
+
+#: includes/content-experience-settings.php:313
+#: content-experience-tutorial.php:93
+msgid "Your license key is not correct or inactive."
+msgstr "Ihr Lizenzschlüssel ist nicht korrekt oder inaktiv."
+
+#: includes/content-experience-settings.php:321
+msgid "Your license key has been accepted."
+msgstr "Ihr Lizenzschlüssel wurde akzeptiert."
+
+#: includes/content-analyzer.php:54
+msgid "You have a content in the selected briefing. Do you want to add it to your post or replace your existing content with the briefing's one?"
+msgstr "Bei der Abfrage der Briefing Details, haben wir festgestellt, dass sich bereits Content aus Searchmetrics in diesem Briefing befindet. Soll dieser unten angefügt werden oder möchtest du den kompletten Inhalt hier mit dem aus Searchmetrics ersetzen?"
+
+#: includes/content-analyzer.php:91
+msgid "loading"
+msgstr "Laden"
+
+#: includes/content-analyzer.php:124
+msgid "Select briefing"
+msgstr "Briefing auswählen"
+
+#: includes/content-analyzer.php:139
+msgid "Add Content"
+msgstr "Content hinzufügen"
+
+#: includes/content-analyzer.php:139
+msgid "Replace Content"
+msgstr "Content ersetzen"
+
+#: includes/content-analyzer.php:146 includes/content-analyzer.php:212
+msgid "All Topics"
+msgstr "Alle Themen"
+
+#: includes/content-analyzer.php:154 includes/content-analyzer.php:326
+msgid "Must Have Keywords"
+msgstr "Must-Have Keywords"
+
+#: includes/content-analyzer.php:164 includes/content-analyzer.php:337
+msgid "Recommended Keywords"
+msgstr "Empfohlene Keywords"
+
+#: includes/content-analyzer.php:174 includes/content-analyzer.php:348
+msgid "Additional Keywords"
+msgstr "Zusätzliche Keywords"
+
+#: includes/content-analyzer.php:191 includes/content-analyzer.php:364
+msgid "Word Count"
+msgstr "Wortzahl"
+
+#: includes/content-analyzer.php:194 includes/content-analyzer.php:367
+msgid "Sentence Structure"
+msgstr "Satzstruktur"
+
+#: includes/content-analyzer.php:197 includes/content-analyzer.php:370
+msgid "Repetitions"
+msgstr "Wiederholungen"
+
+#: includes/content-analyzer.php:200 includes/content-analyzer.php:373
+msgid "Keywords Coverage"
+msgstr "Keyword-Abdeckung"
+
+#: includes/content-analyzer.php:243
+msgid "Your text duplicates external content."
+msgstr "Im Text wurde ein/mehrere  Plagiat/e gefunden."
+
+#: includes/content-analyzer.php:259
+msgid "No duplicates found."
+msgstr "Keine Plagiate gefunden."
+
+#: includes/content-analyzer.php:264
+msgid "Content Score"
+msgstr "Content Score"
+
+#: includes/content-analyzer.php:265
+msgid "Readability Score"
+msgstr "Lesbarkeits-Score"
+
+#: includes/content-analyzer.php:266
+msgid "Keywords"
+msgstr "Keywords"
+
+#: includes/content-analyzer.php:267
+msgid "Questions"
+msgstr "Fragen"
+
+#: includes/content-analyzer.php:267
+msgid "of"
+msgstr "von"
+
+#: includes/content-analyzer.php:268
+msgid "External Duplicate Check"
+msgstr "Externe Plagiat Prüfung"
+
+#: includes/content-analyzer.php:270 includes/content-analyzer.php:276
+msgid "Oops...It looks like the Searchmetrics server is overloaded or you have reached your API request limit. Please try again in a minute."
+msgstr "Hoppla ... Es sieht so aus, als ob der Searchmetrics-Server überlastet ist oder Sie Ihr API-Anforderungslimit erreicht haben. Bitte versuchen Sie es in einer Minute erneut."
+
+#: includes/content-analyzer.php:270 includes/content-analyzer.php:276
+msgid "Reload"
+msgstr "Neu laden"
+
+#: includes/content-analyzer.php:273
+msgid "Please select a briefing in the dropdown menu above"
+msgstr "Bitte wähle ein Briefing im Dropdown-Menü aus"
+
+#: includes/content-analyzer.php:292
+msgid "Please add your Searchmetrics® credentials"
+msgstr "Bitte füge deine Searchmetrics®-API Informationen hinzu"
+
+#: includes/content-analyzer.php:292
+msgid "here"
+msgstr "hier"
+
+#: includes/content-experience-tutorial.php:69
+msgid "Welcome"
+msgstr "Willkommen"
+
+#: includes/content-experience-tutorial.php:72
+msgid "Thank you for downloading the Searchmetics Content Experience plugin."
+msgstr "Danke, dass du das Searchmetics Content Experience Plugin heruntergeladen hast."
+
+#: includes/content-experience-tutorial.php:73
+msgid "From now on you can display your content briefings directly in the WordPress Editor where you write and optimize your posts."
+msgstr "Ab nun hast du die Möglichkeit, deine Content Briefings direkt im WordPress Editor anzuzeigen und deinen Content auch gleich im Editor zu schreiben und optimieren."
+
+#: includes/content-experience-tutorial.php:75
+#: includes/content-experience-tutorial.php:97
+#: includes/content-experience-tutorial.php:139
+#: includes/content-experience-tutorial.php:141
+msgid "CONTINUE"
+msgstr "WEITER"
+
+#: includes/content-experience-tutorial.php:82
+msgid "Plugin license key"
+msgstr "Plugin Lizenzschlüssel"
+
+#: includes/content-experience-tutorial.php:87
+msgid "Please enter your license key. You can find this in your account. When you placed your order, it was also sent to your email address."
+msgstr "Bitte gebe deinen Lizenzschlüssel ein. Diesen findest du in deinem Konto. Bei deiner Bestellung wurde dieser zusätzlich an deine Mail Adresse versendet."
+
+#: includes/content-experience-tutorial.php:107
+msgid "To get the necessary data in your WordPress editor, you need a Searchmetrics API. You can get this in the Searchmetrics Suite."
+msgstr "Damit du die nötigen Daten in deinen WordPress Editor erhaltest, brauchst du eine Searchmetrics API. Diese bekommst du in der Searchmetrics Suite."
+
+# includes/content-experience-tutorial.php:133
+msgid "Check API Data"
+msgstr "Überprüfen Sie die API-Daten"
+
+#: includes/content-experience-tutorial.php:150
+msgid "Thank you, you have successfully set up the plugin. We hope you'll enjoy writing and creating content."
+msgstr "Danke, du hast das Plugin erfolgreich eingerichtet. Wir wünschen dir nun viel Spass beim Texten und Content erstellen."
+
+#: includes/content-experience-tutorial.php:128
+msgid "If you have any questions or suggestions, you can reach out any time using our support."
+msgstr "Solltest du Fragen oder Anregungen haben, kannst du uns jederzeit über unseren Support kontaktieren"
+
+#: includes/content-experience-tutorial.php:153
+msgid "Your Techgarage Media Team"
+msgstr "Dein Techgarage Media Team"
+
+#: includes/content-experience-tutorial.php:155
+msgid "DONE"
+msgstr "FINISH"
+
+#: includes/func.php:126
+msgid "Your license is not active or expired."
+msgstr "Ihre Lizenz ist nicht aktiv oder abgelaufen."
+
+#: includes/func.php:129
+msgid "Please check your license."
+msgstr "Bitte überprüfen Sie Ihre Lizenz."

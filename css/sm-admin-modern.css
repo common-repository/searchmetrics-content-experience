@@ -1,0 +1,33 @@
+.components-panel .sm-sidebar-content {
+    padding: 10px 0px 0px 0px;
+}
+.sm-content-block {
+    border-top: 1px #ddd solid;
+    border-bottom: 1px #ddd solid;
+    border-left: none;
+    border-right: none;    
+    padding: 0px;
+    margin: auto;
+}
+.sm-content-block.components-panel__body:last-child{
+    border-bottom: none;
+}
+.sm-main-info{
+    padding: 0 16px
+}
+.sm-main-info.first{
+    padding-top: 16px;
+}
+.sm-main-info.last{
+    padding-bottom: 16px;
+}
+.sm-content-block h2.components-panel__body-title{
+    padding: 15px!important;
+    color: #191e23;
+    font-weight: 600;
+    cursor:pointer;
+}
+.sm-content-block-content{
+    border-top: none;
+    padding: 16px 16px 10px 16px;
+}

@@ -1,0 +1,151 @@
+.sm-tutorial-intro{
+    width: 826px;
+    height: 626px;
+    position: relative;
+}
+.sm-tutorial-intro h2{
+    position: relative;
+    top: 200px;
+    left: 0px;
+    color: #000;
+    font-size: 28px;   
+}
+.sm-step4 .sm-tutorial-intro h2{
+    width: 70%;
+    margin: auto;
+    line-height: 30px;
+}
+.sm-tutorial-intro .sm-intro-text {
+    top: 240px;
+    position: absolute;
+    text-align: center;
+    width: 70%;
+    left: 22px;
+    color: #000;
+    margin: auto;
+    padding: 0 100px;
+}
+.sm-tutorial-intro .sm-intro-text a{
+    color: #12AE3A;
+}
+.sm-step4 .sm-tutorial-intro .sm-intro-text{
+    top: 326px;
+}
+.sm-tutorial-intro .sm-intro-text p{
+    font-size: 18px;
+    margin: 8px 0;
+}
+ .sm-tutorial-intro .actionBtn {
+    position: absolute;
+    bottom: 90px;
+    left: 15px;
+    width: 100%;
+}
+.sm-tutorial-intro .sm-close {
+    color: #fff;
+    font-size: 22px;
+    position: absolute;
+    right: 79px;
+    top: 103px;
+}
+.sm-steps{
+    display: none;
+    max-width: 900px;
+    margin: 0 auto 200px auto;
+}
+.notice, .updated{
+    display:none;
+}
+.sm-tables.center{
+    text-align: center;
+}
+#Weiter, .sm-close{
+    cursor: pointer;
+}
+.sm-input input {
+    width: 310px;
+    border-radius: 0;
+    border-color: #ccc;
+}
+.sm-step3 table{
+    margin:auto;
+    width: 520px
+}
+.sm-error{
+    color:#f00;
+}
+.sm-success{
+    color:#0d0;
+}
+.sm-next, .wp-core-ui .button-primary.disabled.sm-next{
+    background-color: #fff!important;
+    color: #12AE3A!important;
+    border: 2px #12AE3A solid!important;
+    border-radius: 0!important;
+    min-width: 200px!important;
+    height: 44px!important;
+    font-size: 19px!important;
+    font-weight:bold;
+    margin-top: 15px!important;
+    line-height: 1.714286!important;
+}
+
+.sm-next.filled{
+    color:#fff!important;
+    background-color: #12AE3A!important;
+}
+
+.sm-next.wideBtn{
+    width: 300px!important;
+}
+.sm-next.disabled{
+    opacity: 50%
+}
+.sm-tutorial-intro .form-table th{
+    padding: 11px 10px 7px 0;
+}
+.sm-tutorial-intro .form-table td{
+    padding: 7px 10px;
+}
+@media (max-width: 1100px) {
+    .sm-step3 table{
+        width:100%;
+    }
+    .sm-tutorial-intro{
+        background-image: none!important;
+        width: 90%;
+        max-width: 740px;
+        height:100%;
+        margin: auto;
+        border: 1px #000 solid;
+        padding: 20px 10px;
+        background-color: #fff;
+    }
+    .sm-tutorial-intro h2{
+        position: relative;
+        top:auto;
+        left: auto;   
+    }
+    .sm-tutorial-intro .sm-intro-text{
+        top: auto;
+        left:auto;
+        width:auto;
+        position: relative;   
+        padding: 0 10px;
+    }
+    .sm-step4 .sm-tutorial-intro .sm-intro-text{
+        top: 0px;
+    }
+    .sm-tutorial-intro .actionBtn{
+        position: relative;
+        bottom: auto;
+        left: auto;
+    }
+    .sm-tutorial-intro .sm-close{
+        color: #12AE3A;
+        right: 10px;
+        top: 10px;
+        width:20px;
+        height:20px;
+    }
+}
